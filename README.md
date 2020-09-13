@@ -1,6 +1,6 @@
 # midnight-commander-gruvbox-skin
 
-###### Gruvbox skin for GNU Midnight Commander visual file manager.
+Gruvbox skin for GNU Midnight Commander visual file manager.
 
 ![showcase](gruvbox_showcase.png)
 
